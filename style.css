@@ -1,0 +1,157 @@
+* {
+    box-sizing: border box;
+    padding: 0;
+    margin: 0;
+}
+
+
+.container{
+    height: 1000vh;
+    width: 100vw;
+    background-color: #edf2f4;
+
+   
+
+}
+.bPp {
+    font-size: 50px;
+    font-family: "big caslon";
+    justify-content: center;
+    align-items: center;
+    color: black; 
+    font-weight: 600;
+
+}
+
+.header {
+    font-weight: 100px;
+
+    
+
+    width: 100vw;
+    height: 10vh;
+    color: black;
+    font-size: 100px; 
+    font-family: 'big caslon';
+    font-weight: 10;
+
+    
+}
+
+.header-big {
+    font-weight: 100px;
+
+    
+
+    width: 100vw;
+    height: 10vh;
+    color: black;
+    font-size: 40px; 
+    font-family: 'big caslon';
+    font-style: unset;
+    font-weight: 10;
+    font-weight: 400;
+
+    
+}
+
+.box-one {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    width: 100vw;
+    height: 50vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: white; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    width: 100vw;
+    height: 50vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: darkred; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-three {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    width: 100vw;
+    height: 50vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: darkblue; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-four {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    width: 100vw;
+    height: 110vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: #0B1D51; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-five {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    width: 100vw;
+    height: 200vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: #656256; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+img {
+    padding:0px; 
+    height: 300px; 
+    width: 230px;
+}
